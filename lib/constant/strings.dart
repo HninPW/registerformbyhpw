@@ -1,0 +1,11 @@
+const String kAppBarText = 'Register Assignment by Hnin Pwint';
+const String kPageTitle = 'CREATE ACCOUNT';
+const String kName = 'Your Name';
+const String kEmail = 'Your Email';
+const String kPassword = 'Password';
+const String kRepeatPassword = 'Repeat your password';
+const String kAgree = 'I agree all statements in ';
+const String kTerms = 'Terms of service';
+const String kSingUpBtn = 'SIGN UP';
+const String kLoginText = 'Have already an account ? ';
+const String kLoginHere = 'Login here';
